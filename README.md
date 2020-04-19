@@ -1,4 +1,4 @@
-# Enphase Reports
+# Solar Report
 Gets solar energy production, household consumption, and net household consumption from Enphase Enlighten.
 
 ## Usage
